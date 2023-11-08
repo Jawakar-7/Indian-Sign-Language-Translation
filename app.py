@@ -4,7 +4,7 @@ import openai
 import streamlit as st
 uservid='sign_translation\\utils\\'
 import os
-api_key = '*'
+api_key = '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'
 openai.api_key = api_key
 
 
